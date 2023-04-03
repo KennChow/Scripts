@@ -1,2 +1,2 @@
-cd /Users/zhouchen/PythonProjects/pythonTest
+cd /Users/zhouchen/Scripts
 python3 sy.py

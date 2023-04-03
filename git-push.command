@@ -2,7 +2,9 @@ cd /Users/zhouchen/Scripts
 
 git add .
 
-git commit -m 'add descriptions'
+curDate=$(date "+%Y%m%d")
+
+git commit -m 'updated-'${curDate}'@ken'
 
 git push origin main
 
